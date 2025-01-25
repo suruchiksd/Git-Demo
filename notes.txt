@@ -1,1 +1,1 @@
-Sun rises from west.
+Sun rises from east not west.
